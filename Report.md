@@ -14,3 +14,6 @@ Network Design: The network which is used is three layered network. For the inpu
 The network is proper deep neural network but this is not asking for input as image of frames of screen as state.
 
 For improvement we can reduce the number of iteration OR we can reduce the layer complexity because we can see the network is overfitting.
+
+Possible Imporvement:
+Final episodes are nearly equal but due to randomness and according to plot improvement in episodes could increase the accurace. Further more if we try to reduce the randomness using regularization it will reduce the randomenss and hence the accuracy.
