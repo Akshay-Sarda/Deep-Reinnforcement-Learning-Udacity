@@ -15,5 +15,17 @@ The network is proper deep neural network but this is not asking for input as im
 
 For improvement we can reduce the number of iteration OR we can reduce the layer complexity because we can see the network is overfitting.
 
-Possible Imporvement:
-Final episodes are nearly equal but due to randomness and according to plot improvement in episodes could increase the accurace. Further more if we try to reduce the randomness using regularization it will reduce the randomenss and hence the accuracy.
+## Possible Imporvement:
+### Primary issues:
+* Final episodes are nearly equal but due to randomness and according to plot improvement in episodes could increase the accurace. 
+* Further more if we try to reduce the randomness using regularization it will reduce the randomenss and hence the accuracy.
+* If we can increase the examples for learning we can improve the model accuracy.
+
+### Possible Improvement through model improvement: 
+The Rainbow model experimented by researchers from Deep Mind can give more accurate result for the model better for this test case. The model are:
+* Double DQN (DDQN)
+* Prioritized experience replay
+* Dueling DQN
+* A3C
+* Distributional DQN
+* Noisy DQN
