@@ -36,3 +36,5 @@ The reward we can get is +1 for collecting fresh yellow banana or -1 for collect
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction.
 
+# Instructions:
+You need to execute Navigation.ipynb to get started with training your own agent.
